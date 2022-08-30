@@ -2,6 +2,7 @@
 
 x-ui a xray panel with multi-protocol multi-user support (English Version)
 
+personal experimental project. not recommend for others. 
 # Features
 - English language
 - System status monitoring
