@@ -1,4 +1,7 @@
 # x-ui
+# This Project is now Dead. 
+do not use this outdated code. 
+
 
 x-ui a xray panel with multi-protocol multi-user support (English Version)
 
