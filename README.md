@@ -2,6 +2,8 @@
 # This Project is now Dead. 
 do not use this outdated code. 
 
+#New : https://github.com/proxykingdev/vpn-for-iran
+
 
 x-ui a xray panel with multi-protocol multi-user support (English Version)
 
